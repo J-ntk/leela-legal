@@ -2,7 +2,7 @@
 
 **Last updated:** [INSERT DATE ON PUBLISH]
 
-JNT & Co ("we," "us," or "our") operates the Leela mobile application (the "App"). This Privacy Policy explains what information we collect, how we use it, and the choices you have.
+JNT & Co ("we," "us," or "our") operates the ANIMA mobile application (the "App"). This Privacy Policy explains what information we collect, how we use it, and the choices you have.
 
 By creating an account or using the App, you agree to the collection and use of information as described in this policy.
 
@@ -22,16 +22,21 @@ JNT & Co is the developer and data controller responsible for the App.
 When you create an account, we collect your email address and a securely hashed password. We do not have access to your plaintext password at any time — authentication is handled by our backend provider, Supabase, using industry-standard security practices.
 
 ### 2.2 Content You Provide
-The App is a self-reflection tool. In the course of using it, you provide:
-- **Intentions** — the personal question or theme you set at the start of a session.
-- **Reflection answers** — what you write in response to prompts during gameplay.
+ANIMA offers several self-reflection practices. In the course of using any of them, you provide:
+- **Intentions** — the personal question, theme, or (in some practices) the person you are reflecting on, set at the start of a session.
+- **Reflection answers** — what you write in response to prompts during a session.
 
 This content is, by the nature of the App, personal and may touch on sensitive subjects (thoughts, emotions, personal circumstances). We treat it accordingly — see Section 4.
 
-### 2.3 Gameplay Data
-We automatically record gameplay activity needed to run the App, including dice rolls, board positions, session timestamps, and which cells you land on.
+### 2.3 Information About Other People
+One of ANIMA's practices (Naikan) is specifically structured around reflecting on a real, named person in your life — for example, a parent, partner, friend, or colleague. If you use this practice, the name and any details you write about that person may be processed and stored the same way your own reflection content is.
 
-### 2.4 Information We Do Not Collect
+**We do not independently collect, verify, or use information about anyone other than you.** Any information about a third party exists in our systems only because you chose to write it as part of your own reflection. Please be thoughtful about what you share regarding other people — avoid including information that is unnecessarily identifying or sensitive about them, and be aware that this content is processed by our AI service provider (see Section 4.2) the same way your own content is.
+
+### 2.4 Gameplay Data
+We automatically record activity needed to run the App, including session progress, timestamps, and which parts of a practice you've engaged with.
+
+### 2.5 Information We Do Not Collect
 We do not collect precise location data, contacts, photos, or device identifiers beyond what's technically necessary to operate the App. We do not use advertising trackers, and the App does not display third-party ads.
 
 ---
@@ -57,9 +62,9 @@ We rely on the following third-party services to operate the App. Each processes
 Supabase stores your account information, session history, and reflection content in a secured database. Access to your personal data is restricted so that only your own account can read or write it (enforced via row-level security).
 
 ### 4.2 Anthropic (AI Facilitator)
-When you submit a reflection answer, the relevant text — your stated intention, the current cell's content, and your answer — is sent to Anthropic's Claude API to generate the facilitator's response. This exchange happens through a secured server-side connection; your Anthropic-processed data is not used by Anthropic to train their models when accessed via their API, per Anthropic's standard API terms.
+When you submit a reflection answer, the relevant text — your stated intention, the current prompt's content, and your answer — is sent to Anthropic's Claude API to generate the facilitator's response. This applies across every practice offered in the App, including content that names or describes another person (see Section 2.3). This exchange happens through a secured server-side connection; your Anthropic-processed data is not used by Anthropic to train their models when accessed via their API, per Anthropic's standard API terms.
 
-If you have concerns about sensitive content being processed by an AI system, please consider this before writing particularly sensitive personal details into your reflections.
+If you have concerns about sensitive content being processed by an AI system — including content about people other than yourself — please consider this before writing particularly sensitive personal details into your reflections.
 
 ---
 
@@ -96,7 +101,7 @@ We use reasonable technical and organizational measures to protect your data, in
 
 ## 9. Not a Substitute for Professional Care
 
-Leela is a self-reflection tool designed to support awareness and self-observation. It is not therapy, medical advice, or a substitute for professional mental health treatment. If you are experiencing a mental health crisis, please contact a licensed professional or a crisis service in your area.
+ANIMA is a self-reflection tool designed to support awareness and self-observation. It is not therapy, medical advice, or a substitute for professional mental health treatment. If you are experiencing a mental health crisis, please contact a licensed professional or a crisis service in your area.
 
 ---
 
