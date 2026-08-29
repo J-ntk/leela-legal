@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Last updated:** [INSERT DATE ON PUBLISH]
+**Last updated:** 29/08/2026
 
 These Terms of Service ("Terms") govern your use of the ANIMA mobile application (the "App"), operated by JNT & Co ("we," "us," or "our"). By creating an account or using the App, you agree to these Terms.
 
@@ -33,6 +33,8 @@ You are responsible for maintaining the confidentiality of your account credenti
 You retain ownership of what you write in the App (your intentions, reflection answers, and any other content you create). By using the App, you grant us a limited license to store, process, and transmit that content solely to operate the App — including sending relevant portions to our AI service provider (Anthropic) to generate the facilitator's responses, as described in our Privacy Policy.
 
 You agree not to submit content that is illegal, that violates the rights of others, or that you do not have the right to share.
+
+**Content about other people.** One of the App's practices (Naikan) is specifically designed around reflecting on a real, named person in your life. If you use this or any other feature to write about someone else, you are responsible for exercising reasonable discretion — avoid including unnecessarily identifying or sensitive information about that person, and understand that this content is processed and stored the same way your own personal content is (see our Privacy Policy, Section 2.3). We do not independently verify, moderate, or take responsibility for the accuracy of anything you write about a third party.
 
 ---
 
